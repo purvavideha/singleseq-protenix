@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "count": 1
+        }
+      }
+    ],
+    "name": "49_predict"
+  }
+]

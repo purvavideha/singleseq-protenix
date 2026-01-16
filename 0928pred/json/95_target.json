@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MYAVFQSGGKQHRVSEGQTVRLEKLDIATGETVEFAEVLMIANGEEVKIGVPFVDGGVIKAEVVAHGRGEKVKIVKFRRRKHYRKQQGHRQWFTDVKITGISA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "95_target"
+  }
+]

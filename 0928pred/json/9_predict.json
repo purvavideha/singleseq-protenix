@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKRTFQPSVLKRNRSHGFRARMATKNGRQVLARRRAKGRARLTVSKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "count": 1
+        }
+      }
+    ],
+    "name": "9_predict"
+  }
+]

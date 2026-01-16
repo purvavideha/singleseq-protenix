@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "HYSRKPQVSSKSAKAKVSDLRCHYKNTFETANVINGMPLRKAQQLYRQVLAKTRCIPFKRYNGKIGRTAQAKEWGQTKGRWPRKSVVAMMSLLKNAEANAIEKGLDPNQMVIKHVQVDQAARMRRRTYRAHGRITPYMCSPCHVQLFMSEKKE",
+          "count": 1
+        }
+      }
+    ],
+    "name": "5_target"
+  }
+]

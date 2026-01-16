@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GISSKMAIKKKDDALIKTQQGNKRKLQTTPAEIERTDRQLKAIWILHYNNLHLEFERLIKARTIKIPIQRTELSNEYL",
+          "count": 1
+        }
+      }
+    ],
+    "name": "45_predict"
+  }
+]

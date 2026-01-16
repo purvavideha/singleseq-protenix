@@ -1,0 +1,530 @@
+[
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GAUACG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_APN2_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GAUACG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_APN3_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GCUACG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_CPN4_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GCUACG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_CPN6_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GAUACU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_GPN1_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GCUACG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "176d_A_TPN5_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GACUAGCGAGAGUAUGUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ajf_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GAGCAGGGUGAGCUAUUAAGCUCCCUGCUC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1aju_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGCGAGGUUGAGUCUGUAUGCUCUUUUGCU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1akx_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CCGACAGAACUCUUGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1am0_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "UUGUGUCUAGCUCGAGGAUGAGCACACAC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1arj_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGCGUCUCGCCAUUAGGUGAAGUCGCCAA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1byj_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGAGCAUCGGAUUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1c0o_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GACAGGCUCAUUCAAAAAAGAGAUAAGUCAAGACAA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ddy_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGCAACACCGCGCUAACGCUUACUGGUGGUGUA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1eht_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GCGAGGGUUCAUACCAGAACCUCCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ei2_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CACCAUGG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HA13_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAACAAGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HC10_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAUCACGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HC15_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAACACGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HG11_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAUCACGG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HG14_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAUCAAGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HG16_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAACAGGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HG9_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAUCACGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1ejz_B_6HT12_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACCACGCAUUCAAAACCGCGAUAGGGCAAGCAC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1et4_A_CNC701_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACGUGAUAGCUUAAGCUCACCGUCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1f78_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "AGUUGCUUUACAGUCAUGUACGCAACA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1f79_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACGUUGUAGCUUAAGCUGAGCGUCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1f7h_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGCUGUUCUAGCUUCGGCUAGACAGCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1f7i_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGUGAGUACAUUAGGCGUUAGCCGAACGGUUCUUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1fmn_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGCACCGGACAGUCAUGACAAUAUGCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1fyp_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LCA4_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LCA6_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LCC9_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LCG3_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCCC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LCG8_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_LKC1_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_TLN2_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_TLN5_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GGACACCUC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1h0q_A_TLN7_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GCAUGGUUGCUAUUAUGAAACAAAAGU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1l3d_A_GTP1_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "GAUCAUAGUAAGUUGUUGUUGGCUUAUGCUC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1lvj_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "UGGCUACGCGAAUAGUGUAGCCAAAA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nem_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "UAAGAACCU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nts_B_5PC1_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAAGUACCU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nts_B_5PC2_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "AAAGUAAGC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nts_B_5PC4_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "UAAGUAAGU",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nts_B_5PC5_predicted"
+  },
+  {
+    "sequences": [
+      {
+        "rnaSequence": {
+          "sequence": "CAAGUAAAC",
+          "count": 1
+        }
+      }
+    ],
+    "name": "1nts_B_PDU3_predicted"
+  }
+]

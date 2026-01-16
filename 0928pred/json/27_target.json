@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SMKFIKYLSTAHLNYMNIAVYENGSKIKARVENVVNGKSVGARDFDSTEQLESWFYGLPGSGLGRIENAMNEISRRENP",
+          "count": 1
+        }
+      }
+    ],
+    "name": "27_target"
+  }
+]

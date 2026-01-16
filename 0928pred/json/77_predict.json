@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ATIKTTQVRSTHPRVSLLNHRINRPRVRQTIKQRRHSKRPLAKEPKSLHDHKILLLEPIKDWLAGKKERQTLPENGFEVKWWHVPRYKSEVLQEQDIKSKEDYEKDRQFLVLFKVEKIECFYTLES",
+          "count": 1
+        }
+      }
+    ],
+    "name": "77_predict"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "AAQKSFRIKQKMAKAKKQNRPLPQWIRLRTNNTIRYNAKRRNWRRTKMNI",
+          "count": 1
+        }
+      }
+    ],
+    "name": "26_target"
+  }
+]

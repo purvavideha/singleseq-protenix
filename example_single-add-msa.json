@@ -1,0 +1,17 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAEVIRSSAFWRSFPIFEEFDSETLCELSGIASYRKWSAGTVIFQRGDQGDYMIVVVSGRIKLSLFTPQGRELMLRQHEAGALFGEMALLDGQPRSADATAVTAAEGYVIGKKDFLALITQRPKTAEAVIRFLCAQLRDTTDRLETIALYDLNARVARFFLATLRQIHGSEMPQSANLRLTLSQTDIASILGASRPKVNRAILSLEESGAIKRADGIICCNVGRLLSIADPEEDLEHHHHHHHH",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/jyjiang/Protenix/output/7pzb_single/msa_resmsa_seq_0/0",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "name": "7pzb_single"
+    }
+]

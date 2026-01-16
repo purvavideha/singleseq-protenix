@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKVRASVKKLCRNCKIVKRDGVIRVICSAEPKHKQRQG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "80_target"
+  }
+]

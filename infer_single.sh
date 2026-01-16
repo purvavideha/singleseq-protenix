@@ -1,0 +1,1 @@
+protenix predict --input example_single.json --out_dir ./output --use_msa_server

@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MERIAKHRHARSSAQKVRLVADLIRGKKVSQALDILTYTNKKAAVLVKKVLESAIANAEHNDGADIDDLKVTKIFVDEGPSMKRIMPRAKGRADRILKRTSHI",
+          "count": 1
+        }
+      }
+    ],
+    "name": "95_predict"
+  }
+]

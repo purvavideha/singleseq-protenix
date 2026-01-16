@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SELPVLADALSCINNGEIIEPNIKTTNLLPTIIIIPIDRKPNRKAVKFIRLTPYFNYKGKEKYCSVDNHHDVKARTIITNPYEVNEKTALDYKLIIVA",
+          "count": 1
+        }
+      }
+    ],
+    "name": "3_predict"
+  }
+]

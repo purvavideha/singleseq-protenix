@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVTTNQCSYSGRKILPGYGKRMSRHDKVLLIFLNRKASVHYLNKWNPRKIRWTLASRRARGKEV",
+          "count": 1
+        }
+      }
+    ],
+    "name": "74_target"
+  }
+]

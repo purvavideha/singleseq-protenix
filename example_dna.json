@@ -1,0 +1,13 @@
+[{
+    "sequences": [
+        {
+           "dnaSequence": {
+                "sequence": "TTTCGGTGGCTGTCAAGCGGG",
+                "count": 1
+            }
+        }
+    ],
+
+    "name": "dna11"
+}
+]

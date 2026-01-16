@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKRTFQPSVLKRNRSHGFRARMATKNGRQVLARRRAKG",
+          "count": 1
+        }
+      }
+    ],
+    "name": "62_predict"
+  }
+]

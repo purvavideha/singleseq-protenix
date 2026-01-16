@@ -1,0 +1,13 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MEEIKGKTFLPAIFVGYQRSRAKQRENVALVKVSGIYTRAETDKVLGRLIAIIHSKSGKPIFGKICRPHGNSGMVRARFYTNLPGQLMGHKVRVFYDNIDVGDRATPKYERLYGNPNATVTY",
+          "count": 1
+        }
+      }
+    ],
+    "name": "87_target"
+  }
+]
